@@ -6,6 +6,6 @@
 </head>
 <body>
 	<h1>Hi git</h1>
-	<img src="./img/_medium.jpg" alt="">
+	<img src="images/pic3.png" alt="">
 </body>
 </html>
